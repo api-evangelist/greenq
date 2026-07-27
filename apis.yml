@@ -1,7 +1,14 @@
 aid: greenq
 name: GreenQ
-description: GreenQ is a company surfaced as a portfolio company of 500-global and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: GreenQ is an Israeli smart waste-management technology company (founded 2015, Jerusalem)
+  promoting the "Internet of Garbage" — turning ordinary garbage trucks into smart trucks. Its GreenTrack
+  device installs on any collection vehicle to weigh incoming waste and track route, mileage, capacity, time
+  and per-bin (single-can-level) pickup data without requiring sensors on the bins, using a patent-pending
+  visual-recognition algorithm. A recommendations engine then suggests route-optimization and scheduling
+  improvements, surfaced through the GreenQ dashboard of reports and analytics. Collected data can be
+  integrated with a municipality's local-authority systems through a private integration API; the company
+  publishes no public developer portal, API reference, SDKs, or specification. GreenQ was surfaced as a
+  portfolio company of 500 Global (also backed by URBAN-X) and added to the API Evangelist network.
 url: https://raw.githubusercontent.com/api-evangelist/greenq/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,11 +16,29 @@ x-backed-by:
 - 500-global
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
+image: https://greenq.gq/wp-content/uploads/2016/02/cropped-logo_en_new-192x192.png
 tags:
 - Company
+- Waste Management
+- Smart City
+- Internet of Things
+- Sustainability
+- Fleet Management
+- Analytics
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +48,12 @@ maintainers:
 common:
 - type: Website
   url: https://greenq.gq
+- type: Blog
+  url: https://greenq.gq/blog-greenq/
+- type: Support
+  url: https://greenq.gq/contact/
+x-enrichment:
+  date: '2026-07-20'
+  status: minimal
+  artifacts_added: 0
+  pass: local-v1
