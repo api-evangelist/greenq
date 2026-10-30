@@ -64,6 +64,71 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-GreenQ is a company surfaced as a portfolio company of 500-global and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+GreenQ is an Israeli smart waste-management technology company (founded 2015, Jerusalem) promoting the "Internet of Garbage" — turning ordinary garbage trucks into smart trucks. Its GreenTrack device installs on any collection vehicle to weigh incoming waste and track route, mileage, capacity, time and per-bin (single-can-level) pickup data without requiring sensors on the bins, using a patent-pending visual-recognition algorithm. A recommendations engine then suggests route-optimization and scheduling improvements, surfaced through the GreenQ dashboard of reports and analytics. Collected data can be integrated with a municipality's local-authority systems through a private integration API; the company publishes no public developer portal, API reference, SDKs, or specification. GreenQ was surfaced as a portfolio company of 500 Global (also backed by URBAN-X) and added to the API Evangelist network.
 
-Backed by: 500-global — https://greenq.gq
+**Areas:** Company · Waste Management · Smart City · IoT · Sustainability · Fleet Management · Analytics
+
+## GreenQ on APIs.io
+
+Everything profiled for GreenQ is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/greenq/](https://apis.io/providers/greenq/)** — or go straight to one of the APIs or properties below.
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://greenq.gq)
+- [Support](https://greenq.gq/contact/)
+- [Blog](https://greenq.gq/blog-greenq/)
+
+## API Evangelist rating
+
+**Kin Score 3.3** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 3.6 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 0.0** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/greenq/](https://apis.io/providers/greenq/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for GreenQ: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/greenq/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
